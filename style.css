@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-weight: 700;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 120%;
+    width: 300px;
+    text-align: left;
+}
+h1{
+    text-shadow: 10px 5px 10px rgb(255, 0, 0), 15px 10px 10px rgb(255, 153, 0), 20px 15px 10px rgb(230, 246, 1), 25px 20px 10px rgb(38, 255, 0), 30px 25px 10px rgb(0, 221, 255), 35px 30px 10px rgb(4, 0, 255), 40px 35px 10px rgb(247, 0, 255);
+}
